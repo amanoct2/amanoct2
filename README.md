@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
-<img align="right" alt="coding" width="400" src="" -->
+<!--<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-videos%2Fcoding&psig=AOvVaw36CM3CNtd3scqfK7j1mjYD&ust=1728055763961000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCNgMLD8ogDFQAAAAAdAAAAABAJ](https://static.vecteezy.com/system/resources/thumbnails/017/202/411/small_2x/animated-online-coding-course-programming-language-loop-flat-2d-character-hd-footage-colorful-isolated-animation-on-white-background-with-alpha-channel-transparency-for-website-social-media-video.jpg)"  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharma1105&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharma1105" /> </p>
 
